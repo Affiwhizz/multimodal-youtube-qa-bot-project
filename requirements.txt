@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+openai
+youtube-transcript-api
+yt-dlp
+duckduckgo-search
+tiktoken
